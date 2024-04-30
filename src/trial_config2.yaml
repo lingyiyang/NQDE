@@ -1,0 +1,10 @@
+---
+ QDEFunc: QDEFunc2
+ datasize: 128
+ num_epochs: 20
+ lr: 0.002
+ interpolation: cubic
+ collapse_type: softmax
+ lin_size: 32
+ lmbda: null
+ tau: 1.0
